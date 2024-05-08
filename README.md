@@ -32,6 +32,9 @@ I looked at the distributions of the data and the value counts for the various c
 
 <img width="717" alt="Screenshot 2024-05-08 at 11 27 38 PM" src="https://github.com/SanjilMahajani/CarPricePredictor/assets/43502576/31fa77a0-f2e6-4daa-8209-7263eef6549a">
 
+<img width="855" alt="Screenshot 2024-05-08 at 11 28 23 PM" src="https://github.com/SanjilMahajani/CarPricePredictor/assets/43502576/4eaf26a1-618d-49f9-8e47-a40b9b9572f1">
+
+
 
 
 
