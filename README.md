@@ -20,7 +20,7 @@ I needed to clean it up so that it was usable for our model. I made the followin
 - Handled duplicate values
 - Removed unnecessary columns and checked for missing values
 
-  ## EDA
+## EDA
 
 I looked at the distributions of the data and the value counts for the various categorical variables also found out different relationships between data
 
