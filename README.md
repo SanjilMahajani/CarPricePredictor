@@ -13,11 +13,7 @@ Python Version: 3.7
 
 Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
-## Data Cleaning
-
-I needed to clean it up so that it was usable for our model. I made the following changes:
-
-- ## Data Cleaning
+ ## Data Cleaning
 
 I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
