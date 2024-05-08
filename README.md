@@ -28,4 +28,7 @@ I needed to clean it up so that it was usable for our model. I made the followin
 
 I looked at the distributions of the data and the value counts for the various categorical variables also found out different relationships between data
 
+src="https://github.com/SanjilMahajani/CarPricePredictor/assets/43502576/7a1db71c-61dc-4ade-add5-fbb896348e71">
+
+
 
